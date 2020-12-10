@@ -1,2 +1,2 @@
-# Project-3-Custom_Ethereum-Testnet
-Building a fully functioning testnet, with a block explorer and faucet using Puppeth
+# Project 3 - Union Square Testnet
+For our final project, we decided to build a fully functioning testnet on Ethereum
