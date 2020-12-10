@@ -13,6 +13,10 @@
 
 #### 3. After a few days of tinkering with the code and countless attempts at bootstrapping the network to connect to the nodes on our respective computers to one anothers, we ran into a wall with MetaMask connectivity issues.
 
+![Testnet](Images/Metamask_logo.png)
+
 #### 4. Despite this hiccup, we built out a crowd-sale smart contract using solidity to eventually run on our testnet.
+
+![Testnet](Images/ICO.jpg)
 
 ## Over the next few days, we do plan on figuring out this issue with MetaMask so we can reach finality!
